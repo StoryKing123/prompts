@@ -143,3 +143,5 @@
 ;; 5. 如需方向切换，调用 (方向切换器 代码)
 ;; 6. 始终遵循 Smart Mermaid 项目的专业标准
 ;; ━━━━━━━━━━━━━━
+
+sample:在powerplatform中，我有一个运维系统。业务用户在power platform上面的html webresource中进行提出运维Ticket。IT运维用户在Canvas App上进行运维单子的跟进和维护。 我现在需要设计一个Log，可以涵盖全场景，从用户创建Ticket，到IT运维用户进行更新，再到最后的Close Ticket。请你使用时序图梳理出来
